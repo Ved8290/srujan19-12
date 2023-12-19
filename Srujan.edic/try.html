@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+   
+  <style>
+.header{
+  display: flex;
+  background-color: antiquewhite;
+  justify-content: space-between;
+  width: 100vw;
+
+}
+#logoimg{
+  height: 100px;
+  margin: 3px;
+  margin-left: 30px;
+}
+.btn{
+  text-align: right;
+  margin: 30px;
+}
+.listsec{
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+}
+li{
+  font-size: 20px;
+  font-weight: 600;
+}
+.list{
+  margin-right: 20px;
+  display: none;
+  background-color: aqua;
+  margin-top: -10px;
+  
+}
+#crossbtn{
+  width: 82px;
+  margin-right: 5px;
+}
+/* For smart devices */
+
+#colrb{
+  color: blue;
+  font-size: 20px;
+  font-weight: 600;
+}
+#mobblock{
+  display: block;
+}
+
+  
+@media screen and (min-width: 500px){
+  #mobblock{
+    display: none;
+  }
+}
+  </style>
+</head>
+<body>
+
+  <!-- Header Start -->
+<div class="header">
+  <div class="logo">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnRZyABEmLXyvSPhU6kMYOt3Q28OLG8NSuC2RMOJO5xeDMxWbh6lKDsczXfzU39io6kXVMKxQJYFbfEhT3-b9TYxpQko9Ey41WrtjGMs_3clQnFUkktm7F8i5kep4CxBVW5XHJAecCBVMdxOw02pQOZkmBZi-bsXFSSWEsR3En52z0D9Wx4Z89bIfD/s16000/logo.png" alt="" id="logoimg">
+  </div>
+  <div class="btn">
+    <button id="menubtn" type="button" class="inline-flex items-center gap-2 rounded-lg bg-gray-200 px-2.5 py-2 text-sm font-semibold text-gray-500 ring-indigo-300 hover:bg-gray-300 focus-visible:ring active:text-gray-700 ">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h6a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd" />
+      </svg>
+
+      Menu
+    </button> 
+    <div class="list">
+      <button id="crossbtn" type="button" class="inline-flex items-center gap-2 rounded-lg bg-gray-200 px-2.5 py-2 text-sm font-semibold text-gray-500 ring-indigo-300 hover:bg-gray-300 focus-visible:ring active:text-gray-700 ">
+        <i class="fa-solid fa-xmark text-xl font-bold"></i>
+  
+       
+      </button> 
+      
+      <ul>
+        <li>Home</li>
+        <li>About Us</li>
+        <li>Contact Us</li>
+        <li>Gallery</li>
+        <li>Address</li>
+      </ul> 
+    </div>
+  </div>
+</div>
+
+
+
+
+  <!-- WHAT WE DO...? -->
+
+  <div id="mobblock"  class=" bg-gray-100  p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0  " id="sec1">   
+
+    <section class="text-gray-600 body-font px-10 py-5">
+     <div id="container" class="flex flex-col text-center w-full ">
+       <h1 class="sm:text-3xl text-4xl font-medium title-font mb-4 text-grey-800">What we do...?</h1>
+       
+     </div>
+     
+       <div class="container px-1 py-4 mx-auto flex flex-wrap">
+         <div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
+           <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+             <div class="h-full w-1 bg-indigo-400 pointer-events-none"></div>
+           </div>
+           <div class="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">1</div>
+           <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
+             <div class="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
+               
+               <i class="fa-solid fa-handshake text-6xl" id="ic1"></i>
+             </div>
+             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
+               <h2 class="font-medium title-font text-indigo-600 mb-1 text-2xl">Incubation Services:</h2>
+               <p class="leading-relaxed text-2x"> At the heart of an EDIC is its incubation program. This program offers a range of services and support mechanisms tailored to meet the specific needs of early-stage start-ups. These services may include physical workspace, access to infrastructure and equipment, business advisory and mentorship, legal and financial guidance, and access to funding opportunities. The incubation process helps entrepreneurs validate their ideas, develop viable business models, and accelerate their growth trajectory.</p>
+             </div>
+           </div>
+         </div>
+         <div class="flex relative pb-20 sm:items-center md:w-2/3 mx-auto">
+           <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
+             <div class="h-full w-1 bg-indigo-400 pointer-events-none"></div>
+           </div>
+           <div class="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">2</div>
+           <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
+             <div class="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
+               <i class="fa-solid fa-user-graduate text-6xl" id="ic1"></i>
+             </div>
+             <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
+               <h2 class="font-medium title-font text-indigo-600 mb-1 text-2xl">Entrepreneurship Education and Training:</h2>
+               <p class="leading-relaxed text-x"> EDIC prioritize entrepreneurship education and training to equip aspiring entrepreneurs with the necessary skills and knowledge to succeed. They offer workshops, seminars, and training programs on various aspects of starting and managing a business, such as business planning, marketing, financial management, and team building. <a href="/what-we-do.html"><span id="colrb">.......</span></a> </p>
+               <button id="ahov" type="button" class="px-8 py-3 text-center text-sm font-semibold inline-flex items-center gap-2 rounded-lg bg-gray-200 px-2.5 py-2 text-sm font-semibold text-gray-500 ring-indigo-300 hover:bg-gray-300 focus-visible:ring active:text-gray-700 ">
+              
+                Read More >>
+                  
+               </button>   
+              </div>
+           </div>
+         </div>
+        
+
+         <!--- Read More Span Added -->
+
+        
+        
+
+        
+       
+       <!-- SPAN CLOSE -->
+     
+       </div>
+     </section>
+     </div>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.css" rel="stylesheet" />
+  <script>
+    
+    const crossbtn= document.getElementById('crossbtn');
+   
+    document.getElementById("menubtn").addEventListener('click',(e)=>{
+      document.querySelector('.list').style.display='block';
+      if(document.querySelector('.list').style.display='block'){
+       document.getElementById("menubtn").style.display='none';
+     }
+    })
+
+    crossbtn.addEventListener('click',(e)=>{
+
+      document.querySelector('.list').style.display='none';
+      document.querySelector('#menubtn').style.display='block';
+
+    
+    })
+    
+  
+
+
+  </script>
+</body>
+</html>

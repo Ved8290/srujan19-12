@@ -1,0 +1,324 @@
+Dimple mam = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaVbsmq_ITnPTRcT8W48rFiBCK1DQbLRSFdG7raVD3mfsGWX1-wdrMEZkY2xjKlYJRcA5Vjcuwh5PtlpsI59yjkzyH6oR_k_36kSjs0JoL90Ex82IyR777cDGi3MQREZl0Dx3ZuseW8vZNexhMOXD0wFf2IxUo3utJtKt-dbbfKDdRwsqVAmT9Buw/s16000/Dimple%20mam.jpg";
+
+Srujan logo ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnRZyABEmLXyvSPhU6kMYOt3Q28OLG8NSuC2RMOJO5xeDMxWbh6lKDsczXfzU39io6kXVMKxQJYFbfEhT3-b9TYxpQko9Ey41WrtjGMs_3clQnFUkktm7F8i5kep4CxBVW5XHJAecCBVMdxOw02pQOZkmBZi-bsXFSSWEsR3En52z0D9Wx4Z89bIfD/s16000/logo.png";
+
+main section background="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIPC3XnJgaI1gwBU2r8eKgwFbrPOkTj4NhAM-CLHyF-KGr79zo1KNnJM5mlJJljdALqlrwX3ukFZ4ga9tVqt5MARK9p8Et_sXtMpuXbusmDqG96KcMSETCoMv5QmLc5h8XHazRaYqeevpYyHy5aVjW42vDFhK8wrAIbTv2HKWZOXVSZJ-52KqQLVYj/s16000/EYE08842.JPG";
+
+About us first section ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMIaTFmbJB6gk2eHupUPvFSLlDJMhw7HMblT5-ia9QwpD5-YGnRC-Whvr2oM4loxKKQuzI8W73wl9c3I3NP_d7_uU_BXOv5Mx0XgdmO1DsTXDO35Ds3DNZ0zzoLjHVSwEGo4BaJRDdNDJ9-6kzo-yWBbgdUULBulToST_BFEvw6L7VoVvmuzk24WTr/s16000/EYE08839.JPG";
+
+twitter ads ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7FbDIYRDrl-rzXdvhZy22Gampzf6ctWPODZ3gmKfIBmmmA0fZ5I2vfUZQILwnzMW5-g8KzEypKDtfDS8yTa1UVlwL9A4CFZM8OqmO3ZfbL_k36hHVdT9CRlEfAjiUpDP1tEeCIpQF9rHCzv9yEjMjZYekiXU58G8r2l3xubQU4t5AJATax3Epki9/s16000/twitter-ads.jpg";
+
+pramanandhandhan sir="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XdMsFrStdViCbtTv9W-piiCszlurYP21e2PVqvhiKhnph4A2y4l8QY-HG_zYAG02y-dlHfVoNUwxLM4ZyF5Z8Ya24XpG1KiJbFUP_cj1s0LmP-vv7Zc9gFZByN3dXCxdgr1exzJByrMXSSZcxyC0O5arWo90FgisZeIYd0IsnIxs1iFSTOXdoQcD/s16000/Prof.%20Pramanandhan%20Balasubramanian.jpg"
+
+
+
+Remaing footer code ===  <div>
+  <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Products</div>
+
+  <nav class="flex flex-col gap-4">
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Overview</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Solutions</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Pricing</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Customers</a>
+    </div>
+  </nav>
+</div>
+
+</div>
+</div></footer>
+  
+<!-- nav - start -->
+
+<!-- nav - end -->
+
+<!-- nav - start -->
+<div>
+  <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Company</div>
+
+  <nav class="flex flex-col gap-4">
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">About</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Investor Relations</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Jobs</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Press</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Blog</a>
+    </div>
+  </nav>
+</div>
+<!-- nav - end -->
+
+<!-- nav - start -->
+<div>
+  <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Support</div>
+
+  <nav class="flex flex-col gap-4">
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Contact</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Documentation</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Chat</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">FAQ</a>
+    </div>
+  </nav>
+</div>
+<!-- nav - end -->
+
+<!-- nav - start -->
+<div>
+  <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Legal</div>
+
+  <nav class="flex flex-col gap-4">
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Terms of Service</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Privacy Policy</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Cookie settings</a>
+    </div>
+  </nav>
+</div>
+<!-- nav - end -->
+</div>
+
+
+
+------ Backup code -----
+
+
+
+
+<!---   FOOTER REMAINING CODE START -->
+
+</div>
+  
+<!-- nav - start -->
+<div>
+  <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Products</div>
+
+  <nav class="flex flex-col gap-4">
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Overview</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Solutions</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Pricing</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Customers</a>
+    </div>
+  </nav>
+</div>
+<!-- nav - end -->
+
+<!-- nav - start -->
+<div>
+  <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Company</div>
+
+  <nav class="flex flex-col gap-4">
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">About</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Investor Relations</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Jobs</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Press</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Blog</a>
+    </div>
+  </nav>
+</div>
+<!-- nav - end -->
+
+<!-- nav - start -->
+<div>
+  <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Support</div>
+
+  <nav class="flex flex-col gap-4">
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Contact</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Documentation</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Chat</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">FAQ</a>
+    </div>
+  </nav>
+</div>
+<!-- nav - end -->
+
+<!-- nav - start -->
+<div>
+  <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Legal</div>
+
+  <nav class="flex flex-col gap-4">
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Terms of Service</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Privacy Policy</a>
+    </div>
+
+    <div>
+      <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Cookie settings</a>
+    </div>
+  </nav>
+</div>
+<!-- nav - end -->
+</div>
+
+
+<!---END -->
+ 
+  <!-- social - start -->
+          <div class="flex justify-center">
+            <div class="flex gap-4">
+              <ul class="flex space-x-4 sm:mt-0">
+                  
+                <li>
+                  <i  id="logos" class="cursor-pointer text-gray-500 fa-brands fa-linkedin text-3xl hover:text-gray-900 dark:hover:text-white">
+                    <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+                       
+                    </a>
+                  </i>
+                </li>
+
+                <li>
+                  <i id="logos" class="cursor-pointer text-gray-500 fa-solid fa-envelope text-3xl hover:text-gray-900 dark:hover:text-white">
+                    <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+                       
+                    </a>
+                  </i>
+                </li>
+
+            </ul>
+            </div>
+          </div>
+          <!-- social - end -->
+
+
+          <!-- Img slider -->
+
+          <div class="slideshow-container">
+
+            <div class="mySlides fade">
+              <div class="numbertext">1 / 3</div>
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMIaTFmbJB6gk2eHupUPvFSLlDJMhw7HMblT5-ia9QwpD5-YGnRC-Whvr2oM4loxKKQuzI8W73wl9c3I3NP_d7_uU_BXOv5Mx0XgdmO1DsTXDO35Ds3DNZ0zzoLjHVSwEGo4BaJRDdNDJ9-6kzo-yWBbgdUULBulToST_BFEvw6L7VoVvmuzk24WTr/s16000/EYE08839.JPG"
+              style="width:100%">
+              <div class="text">Caption Text</div>
+            </div>
+            
+            <div class="mySlides fade">
+              <div class="numbertext">2 / 3</div>
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIPC3XnJgaI1gwBU2r8eKgwFbrPOkTj4NhAM-CLHyF-KGr79zo1KNnJM5mlJJljdALqlrwX3ukFZ4ga9tVqt5MARK9p8Et_sXtMpuXbusmDqG96KcMSETCoMv5QmLc5h8XHazRaYqeevpYyHy5aVjW42vDFhK8wrAIbTv2HKWZOXVSZJ-52KqQLVYj/s16000/EYE08842.JPG" style="width:100%">
+              <div class="text">Caption Two</div>
+            </div>
+            
+            <div class="mySlides fade">
+              <div class="numbertext">3 / 3</div>
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnRZyABEmLXyvSPhU6kMYOt3Q28OLG8NSuC2RMOJO5xeDMxWbh6lKDsczXfzU39io6kXVMKxQJYFbfEhT3-b9TYxpQko9Ey41WrtjGMs_3clQnFUkktm7F8i5kep4CxBVW5XHJAecCBVMdxOw02pQOZkmBZi-bsXFSSWEsR3En52z0D9Wx4Z89bIfD/s16000/logo.png" style="width:100%">
+              <div class="text">Caption Three</div>
+            </div>
+            
+            </div>
+            <br>
+            
+            <div style="text-align:center">
+              <span class="dot"></span> 
+              <span class="dot"></span> 
+              <span class="dot"></span> 
+            </div>
+
+
+
+            <!-- Twitter banner start  -->
+
+            <div id="popup" class="bg-white pt-6 sm:pt-8 lg:pt-12"> 
+              <!-- banner - start -->
+              <div class="mx-auto max-w-screen-2xl px-4 pb-4 md:px-8">
+                <div class="relative flex flex-wrap rounded-lg bg-indigo-500 px-4 py-3 shadow-lg sm:flex-nowrap sm:items-center sm:justify-center sm:gap-3 sm:pr-8 md:px-8">
+                  <div class="order-1 mb-2 inline-block w-11/12 max-w-screen-sm text-sm text-white sm:order-none sm:mb-0 sm:w-auto md:text-base">Connect With Us on TWITTER  TO GET Instant SOLUTION</div>
+            
+                  <a href="https://x.com/srujanedic?s=11" target="_blank" class="order-last inline-block w-full whitespace-nowrap rounded-lg bg-indigo-600 px-4 py-2 text-center text-xs font-semibold text-white outline-none ring-indigo-300 transition duration-100 hover:bg-indigo-700 focus-visible:ring active:bg-indigo-800 sm:order-none sm:w-auto md:text-sm">Connect Now</a>
+            
+                  <!-- close button - start -->
+                  <div class="order-2 flex w-1/12 items-start justify-end sm:absolute sm:right-0 sm:order-none sm:mr-2 sm:w-auto xl:mr-3">
+                    <button id="close" type="button" class="text-white transition duration-100 hover:text-indigo-100 active:text-indigo-200">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 xl:h-6 xl:w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                      </svg>
+                    </button>
+                  </div>
+                  <!-- close button - end -->
+                </div>
+              </div>
+
+              /*Banner popup */
+
+window.addEventListener("load",function(){
+  setTimeout(
+    function open(event){
+      document.querySelector(".popup").style.display="block";
+    },1000
+  )
+})
+ document.querySelector("#close").addEventListener("click",(e)=>{
+  document.querySelector("#popup").style.display="none";
+ })
+
+              <!-- twitter banner end -->
